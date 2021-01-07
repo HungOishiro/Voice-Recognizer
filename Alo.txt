@@ -4,6 +4,4 @@ Hello!
 
 GOODBYE!
 
-Good Bye!
-
 Bye Again!
